@@ -1,7 +1,9 @@
 
 Routine Optimization - MATLAB APP
 
-Version 1.0 ***New Version 1.1 Available***
+Version 1.0 
+
+***New Version 1.1 Available*** - https://github.com/JoseJoaoMV/Routine_Optimization_Mitometer_v1.0/releases/tag/v1.1
 
 
 Overview:
